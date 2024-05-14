@@ -1,0 +1,357 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-class{
+    width: 100%;
+    height: 40px;
+    padding-top: 35px;
+    padding-bottom: 0px;
+
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+   
+
+    
+    
+}
+.div1 img{
+    margin-left: 0;
+    font-size: 25px;
+   
+}
+.log-in{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.log-in a{
+    margin-left: 8px;
+    width: 85px;
+    height: 15px;
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+    border-radius: 60px;
+    background-color: rgba(0, 0, 0, 0.1);
+    
+}
+.log-in h4{
+    margin-left: 10px;
+    width: 150px;
+    height: 15px;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+    border-radius: 60px;
+    background-color: black;
+}
+.log-in img{
+       width: 36px;
+       height: 36px;
+       margin-left: 10px;
+       margin-bottom: 25px;
+
+}
+.three-link a{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    margin-bottom: 25px;
+
+}
+.div1 img{
+    margin-left: 5px;
+    margin-bottom: 25px;
+}
+/* navbar end */
+.bg-img img{
+    position: relative;
+    margin-bottom: 0;
+    border: 2px solid #fde24f;
+}
+.overflow{
+    position: absolute;
+    top: 160px;
+    left: 165px;
+    width: 70%;
+    height: 50%;
+    display: flex;
+  
+    justify-content: center;
+   
+    background-color: white;
+}
+.overflow .header h3{
+    margin-top: 35px;
+    margin-left: 200px;
+    font-size: larger;
+
+   
+}
+.menu{
+    margin-left: 10px;
+    width: 140px;
+    height: 30px;
+    
+    color: black;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.1);
+    margin-top: 60px;
+   
+    
+}
+
+
+.con--1{
+    display: flex;
+}
+.con--1 a{
+    margin-left: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: black;
+    padding-left:  200px;
+    padding-right:  168px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 4px;
+}
+.con--1 h4{
+    margin-top: 10px;
+   margin-left: 10px;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-radius: 50px;
+   text-align: center;
+   background-color: lightgreen;
+
+}
+.overflow .why--1 a{
+    position: absolute;
+    top: 320px;
+    left: 400px;
+    width: 120px;
+    height:  auto;
+    padding: 20px;
+    display: flex;
+    border: 1px solid white;
+    color: white;
+    background-color: none;
+ border-radius: 50px;
+
+    justify-content: center;
+   
+   
+}
+/* section--1 end */
+.a-pictures {
+    margin-top: 0;
+    border: none;
+
+    background-color: #fde24f;
+}
+.a-pictures h2{
+    font-size: medium;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+}
+/* section 2 end */
+.sec--3 h1{
+    margin-top: 15px;
+}
+.parent--div{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.parent--div .c--1 h1{
+     margin-bottom: 20px; 
+      margin-bottom: 20px; 
+}
+.parent--div .c--1 p{
+    text-align: center;
+    margin-bottom: 40px;
+   
+}
+.parent--div .c--1 img{
+  margin-left: 70px;
+  margin-bottom: 20px;
+}
+.parent--div .c--1 a{
+   color: black;
+}
+
+.parent--div .c--2 h1{
+    margin-bottom: 20px; 
+     margin-bottom: 20px; 
+}
+.parent--div .c--2 p{
+   text-align: center;
+   margin-bottom: 40px;
+  
+}
+.parent--div .c--2 img{
+ margin-left: 70px;
+ margin-bottom: 20px;
+}
+.parent--div .c--2 a{
+  color: black;
+}
+
+.parent--div .c--3 h1{
+    margin-bottom: 20px; 
+     margin-bottom: 20px; 
+}
+.parent--div .c--3 p{
+   text-align: center;
+   margin-bottom: 40px;
+  
+}
+.parent--div .c--3 img{
+ margin-left: 70px;
+ margin-bottom: 20px;
+}
+.parent--div .c--3 a{
+  color: black;
+  margin-left: 50px;
+}
+#last-link a{
+    padding: 10px;
+    border-radius: 50px;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+#last-link{
+    margin-top: 100px;
+    margin-bottom: 35px;
+}
+/* sec--3 end */
+.container{
+display: flex;
+}
+.parent---1{
+   background-color: rgb(236, 230, 230);
+   width: 50%;
+   height: 595px;
+  border-left: 1px solid black;
+
+}
+
+
+.parent---1 h1{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.parent---1 .child-1{
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-left: 50px;
+    padding: 15px;
+    width: 75%;
+    background-color: white;
+
+}
+.parent---1 .child-1{
+    display: flex;
+    margin-top: 20px;
+}
+.parent---1 .child-1 img{
+    margin-left: 10px;
+}
+.parent---1 .child-1 h2{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.parent---1 .last-div{
+    background-color: black;
+    color: white;
+    width: 220px;
+    margin-left: 200px;
+    margin-top: 40px;
+    padding: 15px;
+    border-radius: 50px;
+    text-align: center;
+    
+}
+/* sec--4 end */
+
+#text{
+    display: flex;
+    flex-direction: column;
+  
+    width: 100%;
+    height: 400px;
+    background-color: #CFBAFF;
+}
+#text h2{
+ 
+    font-size: 40px;
+    text-align: left;
+    margin-left: 35px;
+    margin-top: 74px;
+}
+#text a{
+width: 220px;
+
+ margin-left: 600px;
+ margin-top: 160px;
+ text-decoration: none;
+ background-color: black;
+ color: white;
+ border-radius: 50px;
+padding: 15px;
+ text-align: center;
+
+}
+/* sec--5 end */
+.footer{
+   
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 285px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer div{
+    margin-top: 25px;
+}
+.footer div h2{
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer div h4{
+    text-align: center;
+    padding: 5px;
+}
+/* sec--6end */
+.last--last--copywrite-section {
+background-color: black;
+color: white;
+}
+.last--last--copywrite-section p{
+    text-align: center;
+    font-size: 10px;
+}
